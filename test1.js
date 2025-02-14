@@ -1,1 +1,3 @@
-let dog = "Jim";
+let dog = "Johnson";
+
+let cat = "Catty";
