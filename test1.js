@@ -7,4 +7,4 @@ let bird = "Birdy";
 // Help
 
 const help = "Help me if you can: changed";
-const helpMore = "Some more help";
+const helpMore = "Some more help NEEEDED!!!!";
